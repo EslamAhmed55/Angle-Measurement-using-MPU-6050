@@ -6,7 +6,7 @@ The MPU-6050 is a popular sensor module that combines a 3-axis gyroscope and a 3
 It is commonly used in projects requiring motion sensing, orientation tracking, and gesture recognition. 
 In this project, we utilize the MPU-6050 to measure angles based on the data from its gyroscope and accelerometer.
 
-#### Usage
+### Usage
 This project provides a basic framework for measuring angles using the MPU-6050 sensor module.
 You can further extend the functionality by integrating it into your own projects. Here are some potential use cases:
 
